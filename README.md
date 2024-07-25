@@ -1,0 +1,2 @@
+# Prim_algorithm
+ algorithm
